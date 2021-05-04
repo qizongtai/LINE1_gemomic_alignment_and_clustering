@@ -9,5 +9,6 @@ For <Mapper option>: options can be combined without spaces in between (i.e. 12,
  2) bowtie2 for paired end alignment
  3) novoalign for read2 single end alignment
  4) novoalign for paired end alignment  
+
 For <TF_to_scan>: underscore delimited transcription factors to scan;  
 Output name format: prefix is from the first "-"(hyphen) deliminated input name.
