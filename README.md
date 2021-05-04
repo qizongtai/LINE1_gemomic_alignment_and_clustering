@@ -8,7 +8,7 @@ Usage: <read1.fq> <read2.fq> <barcode> <mapper option> <TF_to_scan>;
  1) bowtie2 for read2 single end alingment    
  2) bowtie2 for paired end alignment
  3) novoalign for read2 single end alignment
- 4) novoalign for paired end alignment
+ 4) novoalign for paired end alignment  
 <TF_to_scan>: underscore delimited transcription factors to scan; 
 
 Output name: prefix is from the first "-"(hyphen) deliminated input name;
