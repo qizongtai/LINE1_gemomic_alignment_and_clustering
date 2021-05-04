@@ -1,4 +1,6 @@
-# LINE1-insertion-mapping
+# Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis.
+This resource provides the perl code used in "Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis". Molecular Biology and Evolution 37 (12), 3576-3600.  D Chen, MA Cremona, Z Qi et al. (2020) 
+
 Usage: <read1.fq> <read2.fq> <barcode> <mapper option> <TF_to_scan>; 
 <Mapper option>: options can be combined without spaces in between (i.e. 12, 123 or 1234); Mapping database is hg19. 
  1) bowtie2 for read2 single end alingment    
