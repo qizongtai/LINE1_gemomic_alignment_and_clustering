@@ -4,7 +4,7 @@ This resource provides the perl code used in "Dynamic Landscape of Human L1 Tran
 URL: https://pubmed.ncbi.nlm.nih.gov/32722770/
 
 # Disclaimer
-The pipeline has been tailored for the Washington University HTCF computing environment (https://htcf.wustl.edu/docs/) which uses the slurm queueing system (https://slurm.schedmd.com/tutorials.html).No guarantees are made about other systems, setups, configurations, etc.
+The pipeline has been tailored for the Washington University HTCF computing environment (https://htcf.wustl.edu/docs/) which uses the slurm queueing system (https://slurm.schedmd.com/tutorials.html). No guarantees are made about other systems, setups, configurations, etc.
 
 # Overview
 The main function is to 
