@@ -1,5 +1,8 @@
 # Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis.
-This resource provides the perl code used in "Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis". Molecular Biology and Evolution 37 (12), 3576-3600.  D Chen, MA Cremona, Z Qi et al. (2020) The main function is to 
+This resource provides the perl code used in "Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis". Molecular Biology and Evolution 37 (12), 3576-3600.  D Chen, MA Cremona, Z Qi et al. (2020) 
+URL: https://pubmed.ncbi.nlm.nih.gov/32722770/
+
+The main function is to 
 - 1) Align the LINE1 (L1) reads to the human genome to idenfiy the integration sites.
 - 2) Cluster the L1 integration sites by a custom window size (default: 500 bp).
 - 3) de-novo motif discovery of the L1 integration sites to identify potential binding proteins. 
