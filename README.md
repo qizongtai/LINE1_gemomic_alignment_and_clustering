@@ -1,7 +1,7 @@
 # Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis.
 This resource provides the perl code used in paper below
 
-(2020) "Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis". Molecular Biology and Evolution 37 (12), 3576-3600.  D Chen, MA Cremona, Z Qi et al. 
+"Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis". (2020) Molecular Biology and Evolution 37 (12), 3576-3600.  D Chen, MA Cremona, Z Qi et al. 
 
 URL: https://pubmed.ncbi.nlm.nih.gov/32722770/
 
