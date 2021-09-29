@@ -6,7 +6,7 @@ URL: https://pubmed.ncbi.nlm.nih.gov/32722770/
 # Disclaimer
 The pipeline has been tailored for the Washington University HTCF computing environment (https://htcf.wustl.edu/docs/) which uses the slurm queueing system (https://slurm.schedmd.com/tutorials.html).No guarantees are made about other systems, setups, configurations, etc.
 
-# Description
+# Overview
 The main function is to 
 - 1) Align the LINE1 (L1) reads to the human genome to idenfiy the integration sites.
 - 2) Cluster the L1 integration sites by a custom window size (default: 500 bp).
