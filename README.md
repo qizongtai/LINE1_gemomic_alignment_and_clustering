@@ -3,7 +3,7 @@ This resource provides the perl code used in paper below
 
 -  "Dynamic Landscape of Human L1 Transposition Revealed with Functional Data Analysis". (2020) Molecular Biology and Evolution 37 (12), 3576-3600.  D Chen, MA Cremona, Z Qi et al. 
 
-URL: https://pubmed.ncbi.nlm.nih.gov/32722770/
+-  URL: https://pubmed.ncbi.nlm.nih.gov/32722770/
 
 # Disclaimer
 The pipeline has been tailored for the Washington University HTCF computing environment (https://htcf.wustl.edu/docs/) which uses the slurm queueing system (https://slurm.schedmd.com/tutorials.html). No guarantees are made about other systems, setups, configurations, etc.
