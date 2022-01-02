@@ -16,7 +16,7 @@ The main functions are
 - 4) Motif enrichment anlaysis of specified transcription factor(s).
 
 # Instructions
-These scripts are wrapped by a master perl script. Download all the scripts in one folder and run the warpper perl script 'L1_bar_wrapperV3.pl'.  
+These scripts are wrapped by a master perl script. Download all the scripts in one folder and run the warpper perl script 'L1_bar_wrapperV3.pl'.  Note: the prefix of the output name is from the first "-"(hyphen) deliminated input name.
 
 Usage: `perl L1_bar_wrapperV3.pl <read1.fq> <read2.fq> <barcode> <genome_aligner> <TF_to_scan>`
 
@@ -28,4 +28,4 @@ Usage: `perl L1_bar_wrapperV3.pl <read1.fq> <read2.fq> <barcode> <genome_aligner
 
 -  For `<TF_to_scan>`: underscore delimited transcription factors to scan;
 
-Output name format: prefix is from the first "-"(hyphen) deliminated input name.
+
