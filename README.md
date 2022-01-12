@@ -29,7 +29,7 @@ Usage: `perl L1_bar_wrapperV3.pl <read1.fq> <read2.fq> <barcode> <genome_aligner
 -  For `<TF_to_scan>`: underscore delimited transcription factors to scan;
 
 # Peak Visualization
--   plot genome-wide distribution of features by R script (cyto_plotV2.R)
+-   plot genome-wide distribution of features by self-made R script (cyto_plotV2.R)
 -   simplified cytoband.txt (cytoband_hg19_2), which doesn't have grey regions in chr plot. 
 ![genome plot](https://user-images.githubusercontent.com/33009124/149226769-bce56108-7451-4d93-9faf-eb4d5c948ee4.PNG)  
 [genomeplot.pdf](https://github.com/qizongtai/LINE1_gemomic_alignment_and_clustering/files/7858024/genomeplot.pdf)
