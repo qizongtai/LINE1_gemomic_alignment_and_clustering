@@ -32,4 +32,5 @@ Usage: `perl L1_bar_wrapperV3.pl <read1.fq> <read2.fq> <barcode> <genome_aligner
 -   plot genome-wide distribution of features by R script (cyto_plotV2.R)
 -   simplified cytoband.txt (cytoband_hg19_2), which doesn't have grey regions in chr plot. 
 
+[genomeplot.pdf](https://github.com/qizongtai/LINE1_gemomic_alignment_and_clustering/files/7858024/genomeplot.pdf)
 
