@@ -28,4 +28,8 @@ Usage: `perl L1_bar_wrapperV3.pl <read1.fq> <read2.fq> <barcode> <genome_aligner
 
 -  For `<TF_to_scan>`: underscore delimited transcription factors to scan;
 
+# Peak Visualization
+-   plot genome-wide distribution of features by R script (cyto_plotV2.R)
+-   simplified cytoband.txt (cytoband_hg19_2), which doesn't have grey regions in chr plot. 
+
 
